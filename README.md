@@ -2,7 +2,7 @@
 
 <hr>
 
-<div alig="center">
+<div align="center">
 
 <img width="500" alt="image" src="Docs/TodoList.png">
 
